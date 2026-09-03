@@ -34,12 +34,12 @@ Outside of standard web stacks, I experiment with interactive media and indie ga
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
 #### 🤖 AI & Agentic Tooling
 ![Antigravity](https://img.shields.io/badge/Antigravity-4A154B?style=flat&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat&logo=anthropic&logoColor=white)
+
+---
 
 ### 📂 Projects & Publications
 
