@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at York University with a passion for full-stack mobile, web, and game development. I enjoy engineering responsive, accessible applications with AI integrated functionalities and gamified tools.
 
-For AI-assisted development, I primarily use Antigravity and Antigravity IDE, pairing agentic workflows with models like Gemini Pro, Gemini Flash Lite, Claude Sonnet, and Opus depending on the task.
+I spent years using VS Code, but lately I’ve transitioned to Antigravity and Antigravity IDE, taking advantage of agentic setups with Gemini and Claude models to speed up my build process.
 
 Outside of standard web stacks, I experiment with interactive media and indie game development, crafting playable prototypes and retro-style games.
 
@@ -31,6 +31,8 @@ Outside of standard web stacks, I experiment with interactive media and indie ga
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=3ECF8E)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
