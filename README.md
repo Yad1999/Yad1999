@@ -8,9 +8,9 @@ Outside of standard web stacks, I experiment with interactive media and indie ga
 
 ---
 
-### 🛠 Tech Stack
+### 💻 Tech Stack
 
-#### 💻 Languages & Frameworks
+#### ⚙️ Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=flat&logo=html5&logoColor=white)
@@ -27,7 +27,7 @@ Outside of standard web stacks, I experiment with interactive media and indie ga
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 
-#### 🧰 Databases, Cloud & Tools
+#### ☁️ Databases, Cloud & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=3ECF8E)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
