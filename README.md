@@ -42,7 +42,7 @@ Outside of standard web stacks, I experiment with interactive media and indie ga
 - ⚡ **[BatteriVolt](https://github.com/anrey)** — EV E-Commerce SOA platform featuring an interactive Open Charge Map API and Google Gemini conversational assistant.
 - 🎙️ **[HarmonAI](https://github.com/anrey)** — 2nd Place Hackathon Winner: Full-stack vocal pitch-matching platform powered by Vue, Express, and Gemini.
 - 🦜 **[Professor Parrot](Repo coming soon)** — Gamified French language app using Flutter, Supabase, and the SM-2 spaced repetition algorithm.
-- 🔬 **[Inclusive Digital Drawing (ACM UMAP 2026)]([https://github.com/anrey](https://umap4good.github.io/umap4good26/))** — Published research analyzing continuous motor control across diverse digital input devices.
+- 🔬 **[Inclusive Digital Drawing (ACM UMAP 2026)]((https://umap4good.github.io/umap4good26/))** — Published research analyzing continuous motor control across diverse digital input devices.
 
 ---
 
