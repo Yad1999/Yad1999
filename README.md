@@ -6,7 +6,7 @@ I spent years using VS Code, but lately I’ve transitioned to Antigravity and A
 
 Outside of standard web stacks, I experiment with interactive media and indie game development, crafting playable prototypes and retro-style games.
 
-Apart from here, you can also checkout my website [here 🌐](https://aj-stellar-portfolio.vercel.app/) for a glimpse of my portfolio 😊.
+Apart from my profile, you can also checkout my website [here 🌐](https://aj-stellar-portfolio.vercel.app/) for a glimpse of my portfolio 😊.
 
 Cheers! 🍵
 ---
