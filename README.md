@@ -1,6 +1,7 @@
 ### Hi everyone! I'm Anrey Jazriel but my friends call me AJ for short.
 
 I'm a Computer Science student at York University with a passion for full-stack mobile, web, and game development. I enjoy engineering responsive, accessible applications with AI integrated functionalities and gamified tools.
+
 For AI-assisted development, I primarily use Antigravity and Antigravity IDE, pairing agentic workflows with models like Gemini Pro, Gemini Flash Lite, Claude Sonnet, and Opus depending on the task.
 
 Outside of standard web stacks, I experiment with interactive media and indie game development, crafting playable prototypes and retro-style games.
