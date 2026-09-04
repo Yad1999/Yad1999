@@ -2,9 +2,9 @@
 
 I'm a Computer Science student at York University with a passion for full-stack mobile, web, and game development. I enjoy engineering responsive, accessible applications with AI integrated functionalities and gamified tools.
 
-I spent years using VS Code, but lately I’ve transitioned to Antigravity and Antigravity IDE, taking advantage of agentic setups with Gemini and Claude models to speed up my build process.
+I spent a good amount of time using VS Code, but lately I’ve transitioned to Antigravity and Antigravity IDE, taking advantage of agentic setups with Gemini and Claude models to speed up my build process.
 
-Outside of standard web stacks, I experiment with interactive media and indie game development, crafting playable prototypes and retro-style games.
+Outside of my usual standard web stacks, I sometimes experiment with interactive media and indie game development, creating playable prototypes and retro-style games.
 
 [My Portfolio Website 😊](https://aj-stellar-portfolio.vercel.app/)
 
