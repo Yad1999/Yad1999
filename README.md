@@ -49,8 +49,8 @@ Cheers! 🍵
 ### 📂 Projects & Publications
 
 - 🕹️ **[Indie & Retro Games](https://anreydelacruzgmailcom.itch.io/)**  Side projects and interactive game prototypes built using Unity and GB Studio.
-- ⚡ **[BatteriVolt](https://github.com/anrey)**  EV E-Commerce SOA platform featuring an interactive Open Charge Map API and Google Gemini conversational assistant.
-- 🎙️ **[HarmonAI](https://github.com/anrey)**  2nd Place Hackathon Winner: Full-stack vocal pitch-matching platform powered by Vue, Express, and Gemini.
+- ⚡ **[BatteriVolt](https://ev-dealership-final.vercel.app/)**  EV E-Commerce SOA platform featuring an interactive Open Charge Map API and Google Gemini conversational assistant.
+- 🎙️ **[HarmonAI](https://devpost.com/software/harmonai-8hybqu)**  2nd Place Hackathon Winner: Full-stack vocal pitch-matching platform powered by Vue, Express, and Gemini.
 - 🦜 **Professor Parrot** *(Repo coming soon)*  Gamified French language app using Flutter, Supabase, and the SM-2 spaced repetition algorithm.
 - 🔬 **[Inclusive Digital Drawing (UMAP4GOOD 2026)](https://umap4good.github.io/umap4good26/)**  Published research analyzing continuous motor control across diverse digital input devices.
 
